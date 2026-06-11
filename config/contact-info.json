@@ -1,0 +1,25 @@
+{
+  "projectManager": {
+    "fullName": "السيد / احمد احمد عبد الحميد صالح",
+    "shortName": "احمد صالح",
+    "englishName": "Ahmed Saleh",
+    "country": "جمهورية مصر العربية",
+    "countryCode": "EG",
+    "countryEmoji": "🇪🇬"
+  },
+  "contact": {
+    "email": "ahmedsalehnew2000@gmail.com",
+    "emailLink": "mailto:ahmedsalehnew2000@gmail.com",
+    "phone": "+201011110607",
+    "phoneLink": "tel:+201011110607",
+    "phoneDisplay": "+20 (0) 101 111 0607",
+    "whatsapp": "https://wa.me/201011110607",
+    "whatsappNumber": "+201011110607"
+  },
+  "project": {
+    "name": "مشروع جائزة مدى للابتكار",
+    "englishName": "Mada Innovation Award Project",
+    "version": "1.0.0",
+    "description": "منصة ذكية شاملة لتحسين النفاذ الرقمي"
+  }
+}
